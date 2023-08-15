@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "parent": 0,
+    "droppable": true,
+    "text": "catalog"
+  },
+  {
+    "id": 2,
+    "parent": 1,
+    "droppable": true,
+    "text": "book id"
+  },
+  {
+    "id": 3,
+    "parent": 2,
+    "text": "author"
+  },
+  {
+    "id": 4,
+    "parent": 2,
+    "text": "title"
+  },
+  {
+    "id": 5,
+    "parent": 2,
+    "text": "genre"
+  },
+  {
+    "id": 6,
+    "parent": 2,
+    "text": "price"
+  },
+  {
+    "id": 7,
+    "parent": 2,
+    "text": "publish_date"
+  },
+  {
+    "id": 8,
+    "parent": 2,
+    "text": "description"
+  },
+  {
+    "id": 9,
+    "parent": 1,
+    "droppable": true,
+    "text": "id"
+  },
+  {
+    "id": 10,
+    "parent": 9,
+    "text": "author"
+  },
+  {
+    "id": 11,
+    "parent": 9,
+    "text": "title"
+  },
+  {
+    "id": 12,
+    "parent": 9,
+    "text": "genre"
+  },
+  {
+    "id": 13,
+    "parent": 9,
+    "text": "price"
+  },
+  {
+    "id": 14,
+    "parent": 9,
+    "text": "publish_date"
+  },
+  {
+    "id": 15,
+    "parent": 9,
+    "text": "description"
+  }
+]
